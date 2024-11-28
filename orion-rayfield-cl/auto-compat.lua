@@ -8,7 +8,9 @@ getgenv().loadstring = function(...)
 			== "https://raw.githubusercontent.com/darkkcontrol/Roblox-Orion-UI-Libary-OP-UI-LIBARY-/refs/heads/main/source"
 	then
 		return load(
-			"https://raw.githubusercontent.com/dumpstring/roblox-unauthorized/refs/heads/main/orion-rayfield-cl/layer.lua"
+			game:HttpGet(
+				"https://raw.githubusercontent.com/dumpstring/roblox-unauthorized/refs/heads/main/orion-rayfield-cl/layer.lua"
+			)
 		)
 	end
 
