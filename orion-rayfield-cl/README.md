@@ -4,7 +4,7 @@ the title explains itself, this is a compatibility layer for the [Orion UI Libra
 
 ## [The Script Itself](./layer.lua)
 
-replace the orion library loadstring with this loadstring to make it use rayfield instead.
+replace the orion library loadstring in any script with this loadstring to make it use rayfield instead.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dumpstring/roblox-unauthorized/refs/heads/main/orion-rayfield-cl/layer.lua"))()
