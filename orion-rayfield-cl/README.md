@@ -1,6 +1,6 @@
 # Orion -> Rayfield Compatibility Layer
 
-the title explains itself, this is a compatibility layer for the [Orion UI Library](https://github.com/shlexware/Orion/), to use [Rayfield](https://github.com/SiriusSoftwareLtd/Rayfield) instead.
+the title explains itself, this is a compatibility layer for the [Orion UI Library](https://github.com/shlexware/Orion/), to use [Rayfield](https://github.com/SiriusSoftwareLtd/Rayfield) instead. warning, this code may be extremely dumb.
 
 ## [The Script Itself](./layer.lua)
 
